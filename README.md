@@ -65,7 +65,7 @@ npm install
 npm run dev
 
 📸 Screenshot
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot]dashboard.png
 📂 Project Structure
 nft-metadata-generator/
 ├── backend/
