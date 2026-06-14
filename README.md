@@ -57,3 +57,55 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 python app.py
+
+Frontend Setup
+bash
+cd frontend
+npm install
+npm run dev
+
+📸 Screenshot
+<img width="1321" height="627" alt="metadata generator" src="https://github.com/user-attachments/assets/83c82035-6f70-4457-ae18-985a0fe0647c" />
+
+📂 Project Structure
+nft-metadata-generator/
+├── backend/
+│   ├── app.py              # Flask API
+│   └── requirements.txt    # Python dependencies
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx         # Main dashboard
+│   │   └── main.jsx        # Entry point
+│   ├── package.json
+│   └── vite.config.js
+├── .gitignore
+└── README.md
+
+🤝 How to Hire Me
+I help NFT projects generate metadata quickly and accurately.
+
+What I need from you:
+
+CSV file (with token_id column + trait columns)
+
+ZIP folder of images (named 1.png, 2.png, etc.)
+
+What you get:
+
+ZIP folder of JSON metadata files
+
+OpenSea-compatible format
+
+Ready for IPFS upload & minting
+
+Starting at $100 per collection
+
+📩 Contact me: [Ariel Adrienne Setiawan on Telegram  / Ariel0007 on Discord /arsyie22110296@gmail.com]
+
+📄 License
+MIT
+
+🙏 Acknowledgments
+Built for the Web3 creator economy. Special thanks to the open-source community.
+
+Made with ☕ and 🚀 by [Ariel Adrienne Setiawan]
