@@ -65,7 +65,7 @@ npm install
 npm run dev
 
 📸 Screenshot
-![NFT Metadata Generator Dashboard](https://raw.githubusercontent.com/arsyie22110296/nft-metadata-generator/main/dashboard.png)
+![NFT Metadata Generator Dashboard](https://i.imgur.com/qBVeE4L.png)
 
 📂 Project Structure
 nft-metadata-generator/
