@@ -65,8 +65,7 @@ npm install
 npm run dev
 
 📸 Screenshot
-<img width="1321" height="627" alt="metadata generator" src="https://github.com/user-attachments/assets/83c82035-6f70-4457-ae18-985a0fe0647c" />
-
+![Dashboard Screenshot](images/dashboard.png)
 📂 Project Structure
 nft-metadata-generator/
 ├── backend/
